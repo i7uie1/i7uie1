@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="128" height="128" alt="Yazan avatar" />
+<img src="https://github.com/i7uie1.png" width="128" height="128" alt="Yazan avatar" />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/i7uie1">
   <img src="https://img.shields.io/badge/GitHub-Yazan-0E1021?style=for-the-badge&logo=github&logoColor=F7F4FF&labelColor=6D3AE9" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6D3AE9&label=VISITORS&labelColor=0E1021" />
